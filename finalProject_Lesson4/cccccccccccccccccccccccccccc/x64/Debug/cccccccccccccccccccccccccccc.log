@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(27,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(28,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(29,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(36,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(36,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\cccccccccccccccccccccccccccc\Camera.cpp(36,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  cccccccccccccccccccccccccccc.vcxproj -> C:\Users\pc\Desktop\ditty\cccccccccccccccccccccccccccc\x64\Debug\cccccccccccccccccccccccccccc.exe
